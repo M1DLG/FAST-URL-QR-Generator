@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "FAST! URL QR Code Generator",
+  "version": "2.2",
+  "permissions": ["activeTab", "downloads"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "logo.png",
+      "48": "logo.png",
+      "128": "logo.png"
+    }
+  },
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  }
+}
